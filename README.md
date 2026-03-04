@@ -14,6 +14,11 @@ A statistical Z-test for proportions was performed:
 
 Since the p-value is greater than 0.05, the difference between the two groups is **not statistically significant**.
 
+## Visualizations
+
+- Conversion rate comparison between A/B groups
+- Conversion rate with 95% confidence intervals
+
 ## Conclusion
 
 The experiment does not provide sufficient evidence that the new landing page improves conversion rate. Therefore, the new page should **not be deployed based on the current experiment results**.
